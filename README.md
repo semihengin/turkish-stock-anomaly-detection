@@ -1,19 +1,17 @@
-# Turkish Stock Market Anomaly Detection with LSTM  
-Bu proje, BIST100 endeksinde LSTM tabanlı anomali tespiti yapmaktadır.
+# **Turkish Stock Market Anomaly Detection with LSTM**  
 
-## 📂 Proje Yapısı
+This project focuses on detecting anomalies in the **BIST100 Index** using an **LSTM-based model**.  
 
+---
+
+## 📂 **Project Structure**  
+
+```plaintext
 turkish-stock-anomaly-detection/
-├── data/                    # CSV veri setleri
-├── notebooks/               # Jupyter Notebook dosyaları
-├── reports/                 # Raporlar ve posterler
-├── src/                     # Python kodları
-├── README.md                # Proje açıklaması
-├── requirements.txt         # Gerekli kütüphaneler
-└── .gitignore               # Git ignore dosyası
-
-## Kurulum  
-Gerekli kütüphaneleri yüklemek için:
-```bash
-pip install -r requirements.txt
-```
+├── data/                    # CSV datasets
+├── notebooks/               # Jupyter Notebook files
+├── reports/                 # Reports and research materials
+├── src/                     # Python source code
+├── README.md                # Project documentation
+├── requirements.txt         # Required dependencies
+└── .gitignore               # Git ignore file
